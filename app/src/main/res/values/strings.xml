@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">QuizMaster</string>
+    <string name="Reglas">"      Quiz Game consiste en un juego de preguntas y respuestas, en el cual el usuario debe seleccionar una categoría, y luego responder cinco preguntas relacionadas con el tema que haya elegido. Para cada pregunta, existen cuatro opciones disponibles y el jugador debe seleccionar la que considere que es correcta. Además, hay un comodín para saltar la pregunta actual, pero solo se puede utilizar una vez por ronda. Al final de cada ronda, el puntaje final se muestra en pantalla."</string>
+    <string name="TituloAyuda">¿Cómo se juega?</string>
+    <string name="Volver">Volver</string>
+    <string name="Tiempo">tiempo</string>
+    <string name="Puntaje">puntaje</string>
+    <string name="Comodin">comodin</string>
+    <string name="Categoria">categoria</string>
+    <string name="Pregunta">Pregunta</string>
+    <string name="VolverAJugar">Volver a jugar</string>
+    <string name="resultado">Tu puntaje fue:</string>
+    <string name="Aceptar">Aceptar </string>
+    <string name="AyudaMenu">Ayuda</string>
+    <string name="AtrasMenu">Atras</string>
+    <string name="ComodinUsado">Se utilizo el comodin</string>
+    <string name="ComodinNoUsado">No se utilizo el comodin</string>
+    <string name="Compartir">Compartir</string>
+    <string name="nombre">Ingresa tu nombre</string>
+    <string name="btnDialogo">Aceptar</string>
+    <string name="miPuntaje">Mi puntaje fue: </string>
+    <string name="de"> de </string>
+    <string name="NoTop5">No es posible compartir, ya que no entraste en el top 5</string>
+</resources>

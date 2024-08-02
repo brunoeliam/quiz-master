@@ -1,0 +1,32 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/padresPortrait"
+    android:orientation="vertical">
+    <TextView
+        android:paddingTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:textSize="40sp"
+        android:gravity="center"
+        android:id="@+id/Juega"
+        android:text="@string/TituloAyuda"
+        android:layout_marginTop="10dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/Juega"
+        android:text="@string/Reglas"
+        android:gravity="center"
+        android:textSize="20dp"
+        android:layout_above="@+id/botonAyuda"/>
+    <Button
+        android:id="@+id/botonAyuda"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:text="@string/Volver"
+        android:textSize="30sp"
+        android:backgroundTint="@color/botonColor"
+        android:layout_alignParentBottom="true"
+        android:onClick="volver"
+        android:textColor="@color/black"/>
+</RelativeLayout>

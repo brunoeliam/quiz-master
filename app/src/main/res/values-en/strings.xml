@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizMaster</string>
+    <string name="Reglas">Quiz Game consists of a question and answer game in which the user must first select a category, and then answer five questions related to the chosen topic. For each question, four different options are available, and the player must select the one they consider correct. Additionally, there is a \'lifeline\' or \'wild card\' to skip the current question, which can be used once per round. At the end of each round, the score will be displayed on the screen.</string>
+    <string name="TituloAyuda">How to play</string>
+    <string name="Volver">Go back</string>
+    <string name="Tiempo">time</string>
+    <string name="Puntaje">score</string>
+    <string name="Comodin">wild card</string>
+    <string name="Categoria">category</string>
+    <string name="Pregunta">Question</string>
+    <string name="VolverAJugar">Play again</string>
+    <string name="resultado">Your score is:</string>
+    <string name="Aceptar">Accept</string>
+    <string name="AyudaMenu">Help</string>
+    <string name="AtrasMenu">Go back</string>
+    <string name="ComodinUsado">The wild card was used</string>
+    <string name="ComodinNoUsado">The wild card was NOT used</string>
+    <string name="Compartir">Share</string>
+    <string name="nombre">Enter your name</string>
+    <string name="btnDialogo">Done</string>
+    <string name="miPuntaje">My score was: </string>
+    <string name="de"> out of </string>
+    <string name="NoTop5">You cannot share your score, as you did not reach the top 5</string>
+</resources>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/padresLand">
+    <TextView
+        android:id="@+id/tiempo"
+        style="@style/tamanioViewsText"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        android:text="@string/Tiempo" />
+    <TextView
+        android:id="@+id/puntaje"
+        style="@style/tamanioViewsText"
+        android:layout_below="@id/categoria"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="-2dp"
+        android:text="@string/Puntaje" />
+    <Button
+        android:id="@+id/comodin"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        style="@style/ComodinView"/>
+    <TextView
+        style="@style/tamanioViewsText"
+        android:id="@+id/categoria"
+        android:text="@string/Categoria" />
+    <TextView
+        android:id="@+id/texto"
+        android:layout_alignParentBottom="true"
+        android:layout_alignEnd="@+id/tiempo"
+        android:layout_below="@+id/comodin"
+        style="@style/ViewPregunta"/>
+    <Button
+        style="@style/BotonesRtaLand"
+        android:id="@+id/rta1"
+        android:layout_above="@+id/rta2"/>
+    <Button
+        android:id="@+id/rta2"
+        style="@style/BotonesRtaLand"
+        android:layout_above="@+id/rta3"/>
+    <Button
+        android:id="@+id/rta3"
+        style="@style/BotonesRtaLand"
+        android:layout_above="@+id/rta4"/>
+    <Button
+        android:id="@+id/rta4"
+        style="@style/BotonesRtaLand"
+        android:layout_alignParentBottom="true"
+        />
+    <TextView
+        android:id="@+id/Usuario"
+        style="@style/tamanioViewsText"
+        android:layout_toEndOf="@+id/categoria"/>
+</RelativeLayout>

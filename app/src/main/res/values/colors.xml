@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="botonColor">#FFCC80</color>
+    <color name="botonesPortrait">#E57373</color>
+    <color name="rojoIntenso">#FF1744</color>
+    <color name="celeste">#64FFDA</color>
+    <color name="rojo">#F10E0E</color>
+    <color name="verde">#4CAF50</color>
+    <color name="gris">#3A3636</color>
+    <color name="fucsia">#EC407A</color>
+    <color name="amarillo">#FFEE58</color>
+    <color name="crema">#ECD96D</color>
+    <color name="amarilloClaro">#FFF0C2</color>
+</resources>

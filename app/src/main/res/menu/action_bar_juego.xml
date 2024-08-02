@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/Ayuda"
+        android:title="@string/AyudaMenu"
+        android:icon="@android:drawable/ic_menu_help"
+        app:showAsAction="ifRoom"/>
+    <item android:title="@string/AtrasMenu"
+        app:showAsAction="ifRoom"
+        android:id="@+id/Atras"
+        android:icon="@android:drawable/ic_menu_revert"/>
+</menu>

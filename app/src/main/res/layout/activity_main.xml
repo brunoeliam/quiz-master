@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/padresPortrait">
+    <LinearLayout
+        style="@style/Linear">
+        <TextView
+            android:id="@+id/texto"
+            style="@style/textoViewPrincipal" />
+        <Button
+            style="@style/BotonesCatego"
+            android:id="@+id/boton1"
+            android:text="Ciencia" />
+        <Button
+            android:id="@+id/boton2"
+            style="@style/BotonesCatego"
+            android:text="Historia"/>
+        <Button
+            android:id="@+id/boton3"
+            style="@style/BotonesCatego"
+            android:text="Geografia"/>
+        <Button
+            android:id="@+id/boton4"
+            style="@style/BotonesCatego"
+            android:text="Deporte"/>
+        <Button
+            android:id="@+id/boton5"
+            style="@style/BotonesCatego"
+            android:text="Entretenimiento"/>
+        <Button
+            android:id="@+id/boton6"
+            style="@style/BotonesCatego"
+            android:text="Tecnologia"/>
+        <Button
+            android:id="@+id/boton7"
+            style="@style/BotonesCatego"
+            android:text="ArteyCultura"/>
+        <Button
+            android:id="@+id/boton8"
+            style="@style/BotonesCatego"
+            android:text="Literatura"/>
+        <Button
+            android:id="@+id/boton9"
+            style="@style/BotonesCatego"
+            android:text="Filosofia"/>
+        <Button
+            android:id="@+id/boton10"
+            style="@style/BotonesCatego"
+            android:text="Gastronomia"/>
+        <Button
+            android:id="@+id/boton11"
+            style="@style/BotonesCatego"
+            android:text="Musica"/>
+        <Button
+            android:id="@+id/boton12"
+            style="@style/BotonesCatego"
+            android:text="Idiomas"/>
+        <Button
+            android:id="@+id/boton13"
+            style="@style/BotonesCatego"
+            android:text="Medicina"/>
+    </LinearLayout>
+</ScrollView>
+    

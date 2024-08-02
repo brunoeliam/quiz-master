@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/padresPortrait">
+
+    <TextView
+        android:id="@+id/tiempo"
+        android:layout_alignParentTop="true"
+        android:layout_centerInParent="true"
+        style="@style/tamanioViewsText"
+        android:text="30"/>
+    <TextView
+        style="@style/tamanioViewsText"
+        android:id="@+id/puntaje"
+        android:layout_alignParentEnd="true"
+        android:text="@string/Puntaje"/>
+    <Button
+        android:id="@+id/comodin"
+        android:layout_below="@+id/puntaje"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"
+        style="@style/ComodinView" />
+    <TextView
+        android:id="@+id/categoria"
+        android:text="@string/Categoria"
+        style="@style/tamanioViewsText"/>
+    <TextView
+        android:id="@+id/texto"
+        android:layout_above="@+id/rta1"
+        android:layout_below="@+id/comodin"
+        style="@style/ViewPregunta"/>
+    <Button
+        style="@style/BotonesRtaPortrait"
+        android:id="@+id/rta1"
+        android:layout_above="@+id/rta2"/>
+    <Button
+        style="@style/BotonesRtaPortrait"
+        android:id="@+id/rta2"
+        android:layout_above="@+id/rta3"/>
+    <Button
+        style="@style/BotonesRtaPortrait"
+        android:id="@+id/rta3"
+        android:layout_above="@+id/rta4"/>
+    <Button
+        style="@style/BotonesRtaPortrait"
+        android:id="@+id/rta4"
+        android:layout_alignParentBottom="true"/>
+    <TextView
+        android:id="@+id/Usuario"
+        style="@style/tamanioViewsText"
+        android:layout_below="@+id/categoria"/>
+</RelativeLayout>
