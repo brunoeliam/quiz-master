@@ -35,13 +35,11 @@ QuizMaster is a Kotlin-based project developed as part of a university assignmen
 
 ## Screenshots
 
-![Home Screen](screenshots/QuizMasterMenu.jpg)
+<img src="screenshots/QuizMasterMenu.jpg" alt="Home Screen" width="220" /> 
+<img src="screenshots/QuizMasterJuego1.jpg" alt="Questions screen 1" width="220" />
+<img src="screenshots/QuizMasterJuego2.jpg" alt="Questions screen 2" width="220" />
+<img src="screenshots/QuizMasterJuego3.jpg" alt="Questions screen 1" width="220" />
 
-![Category Selection](screenshots/QuizMasterJuego1.jpg)
-
-![Question Screen](screenshots/QuizMasterJuego2.jpg)
-
-![Ranking Screen](screenshots/QuizMasterJuego3.jpg)
 
 ## Contributing
 
