@@ -53,4 +53,4 @@ If you would like to contribute to this project, please follow these steps:
 6. Open a pull request.
 
 ## Acknowledgements
-- Special thanks to my classmate (https://github.com/Frannogueda) for his support and help to develop this project together.
+- Special thanks to my classmate (https://github.com/Frannogueda) for his support and help while developing this project together.
