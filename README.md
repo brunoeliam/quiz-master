@@ -8,7 +8,7 @@ QuizMaster is a Kotlin-based project developed as part of a university assignmen
 
 - **Multiple Categories:** Choose from a variety of trivia categories to challenge yourself on different topics.
 - **Ranking System:** Track your progress and see how you rank against other players.
-- **Wild Card Function:** Use a wild card to skip the current question if you think you cannot think of the right answer.
+- **Wild Card Function:** Use a wild card to skip the current question if you cannot think of the right answer.
 
 ## Getting Started
 
@@ -21,16 +21,16 @@ QuizMaster is a Kotlin-based project developed as part of a university assignmen
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/trivia-game-app.git
+   git clone https://github.com/brunoeliam/quiz-master.git
    ```
 2. Open the project in Android Studio.
-3. Build and run the app on an emulator or a physical device.
+3. Build and run the app on an emulator or an Android physical device.
 
 ## Usage
 
 1. Launch the app.
 2. Select a trivia category.
-3. Answer the questions to the best of your ability.
+3. Answer the questions to test your knowledge on the topic you chose.
 4. Check your ranking on the leaderboard.
 
 ## Screenshots
@@ -52,4 +52,4 @@ If you would like to contribute to this project, please follow these steps:
 6. Open a pull request.
 
 ## Acknowledgements
-- Special thanks to (https://github.com/Frannogueda) for his support and help to develop this project together.
+- Special thanks to my classmate (https://github.com/Frannogueda) for his support and help to develop this project together.
